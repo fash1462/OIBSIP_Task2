@@ -1,0 +1,87 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color:#EAEAEA;
+    line-height: 2;
+}
+.top-container > h2{
+    color: #B2B2B2;
+}
+h2{
+    font-family: 'Monserrat', sans-serif;
+    font-size:2.5rem;
+    color:rgb(60, 64, 72);
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Monserrat', sans-serif;
+    color: #11999E;
+}
+p{
+    color: #3C4048;
+    line-height: 2;
+}
+hr{
+   margin: 100px auto 100px auto;
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 10px;
+   width:4%;
+   border-color:#3C4048 ;
+}
+.top-container{
+    background-color: #3C4048;
+    padding-top: 100px;
+    position: relative;
+}
+.row{
+    margin:100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.profile-pic{
+    height: 400px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    margin-top: 30px;
+    background-color: #3C4048;
+    padding: 60px;
+}
+.end-note{
+    color:#EAF6F6;
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+.legacy-description
+{
+    margin: 50px auto 60px auto;
+    width: 39%;
+}
+
+  td{
+    padding-bottom: 40px;
+    text-align: left; 
+  }
+
+  table{
+    padding-left: 130px;
+    padding-right: 130px;
+  }
+
+  .year{
+    color:#3C4048;
+    font-weight: bold;
+  }
